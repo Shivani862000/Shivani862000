@@ -15,6 +15,7 @@ I am always eager to expand my skill set. Currently, I am diving deep into **Fro
 You can explore all my projects on my [portfolio website](https://shivaniverma-portfolio.netlify.app/). Additionally, here are some projects I've worked on:
 - [ICD Labs Production](https://prod.icdlabs.in/) - A project I contributed to at Itu Chaudhuri Design.
 - [HP UI](https://hp-ui.vercel.app/) - A project I've worked on showcasing my frontend development skills.
+- And many more.
 
 ### 💬 Let's Talk Tech
 Ask me anything about **React**, **Next.js**, or anything related to frontend development. I'm here to share my knowledge and learn from others in the community.
